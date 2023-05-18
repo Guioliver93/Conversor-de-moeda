@@ -95,7 +95,7 @@ button:hover {
 }
 
 button:active {
-    opacity:0.7 ;
+    opacity: 0.7;
 }
 
 section {
@@ -107,10 +107,10 @@ section {
 
 .currency-container {
     text-align: center;
-    padding: 10px ;
+    padding: 10px;
 }
 
-.currency-name{
+.currency-name {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -118,7 +118,7 @@ section {
     color: #777777;
 }
 
-.currency-value{
+.currency-value {
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
